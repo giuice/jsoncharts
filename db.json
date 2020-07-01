@@ -22,5 +22,94 @@
     ],
     "profile": {
         "name": "typicode"
+    },
+    "evolutive": {
+        "Month": [
+            {
+                "Notifications": 175,
+                "PeriodName": "Jan/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 56,
+                    "Complaints": 50,
+                    "Incidents": 69
+                }
+            },
+            {
+                "Notifications": 172,
+                "PeriodName": "Jun/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 51,
+                    "Complaints": 63,
+                    "Incidents": 54
+                }
+            },
+            {
+                "Notifications": 168,
+                "PeriodName": "Fev/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 48,
+                    "Complaints": 55,
+                    "Incidents": 55
+                }
+            },
+            {
+                "Notifications": 165,
+                "PeriodName": "Mai/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 55,
+                    "Complaints": 55,
+                    "Incidents": 52
+                }
+            },
+            {
+                "Notifications": 162,
+                "PeriodName": "Abr/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 61,
+                    "Complaints": 58,
+                    "Incidents": 46
+                }
+            },
+            {
+                "Notifications": 158,
+                "PeriodName": "Mar/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 59,
+                    "Complaints": 65,
+                    "Incidents": 48
+                }
+            }
+        ],
+        "Quarter": [
+            {
+                "Notifications": 501,
+                "PeriodName": "Jan/2020-Mar/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 155,
+                    "Complaints": 168,
+                    "Incidents": 178
+                }
+            },
+            {
+                "Notifications": 499,
+                "PeriodName": "Abr/2020-Jun/2020",
+                "notificationCategories": {
+                    "AdverseEvents": 175,
+                    "Complaints": 178,
+                    "Incidents": 146
+                }
+            }
+        ],
+        "Year": [
+            {
+                "Notifications": 1000,
+                "PeriodName": "2020",
+                "notificationCategories": {
+                    "AdverseEvents": 330,
+                    "Complaints": 346,
+                    "Incidents": 324
+                }
+            }
+        ]
     }
 }
